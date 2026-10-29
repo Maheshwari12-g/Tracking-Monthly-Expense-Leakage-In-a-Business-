@@ -208,6 +208,10 @@ Tracking-Monthly-Expense-Leakage-In-a-Business-
 ├── EXcel PPt.pptx
 └── dashboard.png
 
+Dashboard Preview
+<img width="1525" height="677" alt="Final dashboard pic" src="https://github.com/user-attachments/assets/09802bd7-7acd-4932-8580-56ac3888ff62" />
+
+
 
 ✅ Conclusion
 The overall overspend is small (+0.64%), but it is concentrated in a few departments, categories and months. The dashboard makes these areas visible so that management can take early action, control costs and plan budgets better.
